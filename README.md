@@ -19,4 +19,6 @@ El sistema se compone de dos unidades principales de almacenamiento y procesamie
 
 # Ventana de la aplicación
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9ab43602-9cb2-4f0b-a271-b85b533a735e" />
+Link de descarga (https://itculiacanedu-my.sharepoint.com/:u:/g/personal/manuel_lc_culiacan_tecnm_mx/IQC27HQ_gi-JSKcNRH8WjUfqAQ6v3jh_kmc5YD68Z0zZ4n8?e=GZdYvP)
+
 
